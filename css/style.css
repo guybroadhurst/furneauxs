@@ -34,7 +34,7 @@ header nav a:hover {
 }
 
 section.hero {
-  background-image: url('hero.jpg');
+  background-image: url('../img/hero.jpg');
   background-size: cover;
   background-position: right center;
   padding: 250px 0 200px 0;
@@ -114,7 +114,7 @@ a.button:hover {
 }
 
 section.chair {
-  background-image: url('full-bleed.jpg');
+  background-image: url('../img/full-bleed.jpg');
   background-position: center bottom;
   height: 500px;
   padding: 0;
